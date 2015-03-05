@@ -1,6 +1,6 @@
 puts "Enter you name"
-fist=gets
-last='K.J'
+fist="Dhrisya"
+last="K.J"
 color='blue'
 
 
